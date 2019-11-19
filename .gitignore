@@ -1,0 +1,22 @@
+# ignore project's websites
+
+feminism-beyond/
+im-feeling/
+living-archives/
+living-archives-old/
+memes-of-protest/
+on-knowing/
+representation-by-design/
+rr/
+rr-old/
+surface-core/
+what-we-want-you-to-know/
+bento/
+
+# FTP access
+.htaccess
+.ftpquota
+.well-known/
+
+
+cgi-bin/
